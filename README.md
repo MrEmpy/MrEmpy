@@ -6,7 +6,7 @@
 
 <h1>Redes Sociais:</h1>
 <p align="left">
-<a href="https://twitter.com/mr_empy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_empy" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCol7qlIUc0o0JKmdrmTWQtA" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="mr_empy" height="40" width="40" /></a> <a href="https://instagram.com/mrempy.ofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrempy.ofc" height="30" width="40" /></a>
+<a href="https://twitter.com/mr_empy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_empy" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UCol7qlIUc0o0JKmdrmTWQtA" target="blank"><img align="center" src="https://www.apaulista.org.br/wp-content/uploads/2021/02/youtube-logo.png" alt="mr_empy" height="40" width="40" /></a> <a href="https://instagram.com/mrempy.ofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrempy.ofc" height="30" width="40" /></a>
 </p>
 
 <h1>Linguagens:</h1>
